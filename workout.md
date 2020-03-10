@@ -14,8 +14,6 @@
 
 ## Day 2 (Legs)
 
-### Legs
-
 | Exercise | Sets | Reps |
 |---|---|---|
 | Stairs | 1 | 25 mins|
